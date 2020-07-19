@@ -1,2 +1,3 @@
 # selenium_workshop
-Selenium Workshop Repository
+Selenium Workshop by Coders Arena
+(performed in ubuntu)
